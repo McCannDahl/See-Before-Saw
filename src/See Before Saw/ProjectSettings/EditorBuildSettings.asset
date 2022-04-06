@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SeeBeforeSawScene.unity
+    guid: 866d7d87b32670040923e3910716c0ed
+  - enabled: 0
+    path: Assets/Scenes/Spacial Awareness Demo.unity
+    guid: 0c40afb6a31871441b046a70448a7562
+  - enabled: 0
+    path: Assets/Scenes/MRTK Playground.unity
+    guid: 0c8c5c3b360494e4792eb4e0bd9a64aa
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d389bab5010000542a9c529b0c9abc8f, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: a6a4804b5430eac44b5465121b07a2b9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7f1d6be3ae45d1e43aab66890f8f10d6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c96c62008045cac4ea0a59b0891ad1cb, type: 2}
